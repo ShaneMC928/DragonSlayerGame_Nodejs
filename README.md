@@ -1,6 +1,7 @@
 # DragonSlayerGame_Nodejs
 
 *************************Dragon Slayer Game
+
 Welcome to the Dragon Slayer game!
 This game is a text editor
 To play the game follow the instructions shown here:
